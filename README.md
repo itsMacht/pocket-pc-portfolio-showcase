@@ -24,15 +24,15 @@ On Windows, a simple companion makes sharing visible: Start, Stop, keep the PC a
 
 ## Interface previews
 
-### App shortcuts
+### Android app
 
-![Actual Pocket PC Apps interface with demo content](assets/app-shortcuts.png)
+![Pocket PC Android interface at a phone viewport with demo content](assets/android-app.png)
 
-### Desktop controls
+### Windows companion
 
-![Actual Pocket PC desktop and touch controls with demo content](assets/desktop-controls.png)
+![Actual Pocket PC Windows companion with sharing off](assets/windows-companion.png)
 
-These interface captures use the actual v0.4.2 web UI with an isolated fake desktop and demo content. They contain no personal desktop data and are not physical-phone screenshots. The studio hero is an AI-assisted product visualization; its monitor scene illustrates everyday PC use.
+The Android view uses the actual v0.4.2 interface at a phone viewport with an isolated fake desktop and demo content; it is not a physical-phone capture. The Windows image is a clean owner-supplied screenshot of the actual companion in an isolated preview, with sharing off and no pairing code or PC address. Its QR links to the public portfolio project. Both retain their original proportions. The studio hero is an AI-assisted product visualization; its monitor scene illustrates everyday PC use.
 
 ## Tools
 
